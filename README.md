@@ -7,11 +7,6 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/mesay-lemma" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m21power&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=m21power&theme=dark&hide_border=false)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=m21power&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
