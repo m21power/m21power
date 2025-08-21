@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer from Ethiopia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Dev%20|%20Flutter%20Enthusiast%20|%20Open%20Source%20Lover&center=false&width=800&height=30" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Dev%20|%20Flutter%20Dev%20|%20Open%20Source%20Lover&center=false&width=800&height=30" />
 </p>
 
 ###  About Me
