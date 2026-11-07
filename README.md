@@ -92,8 +92,4 @@ I'm open to engineering roles, collaborations and ambitious projects.
 <a href="https://www.linkedin.com/in/mesay-lemma"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mesaylema21@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101B2E,100:070B14&height=90&section=footer" width="100%"/>
-
 </div>
