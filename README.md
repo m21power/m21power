@@ -48,7 +48,7 @@ I take an idea from first sketch to a live product in people's hands, then keep 
       <h3>Mahlet Ze-Kidus Yared</h3>
       <p><sub>ማሕሌት ዘቅዱስ ያሬድ</sub></p>
       <p>The complete Mahlet and Wazema liturgy in Ge'ez: 100+ feast-day services, organized by Ethiopian month and feast.</p>
-      <img src="https://img.shields.io/badge/Downloads-1K%2B-34A853?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Downloads-5K%2B-34A853?style=flat-square"/>
       <img src="https://img.shields.io/badge/Rating-4.9%E2%98%85-F59E0B?style=flat-square"/>
       <br/><br/>
       <a href="https://play.google.com/store/apps/details?id=app.mesay.mahiletzekidusyared"><img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-0F172A?style=for-the-badge&logo=googleplay&logoColor=34A853"/></a>
