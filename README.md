@@ -58,7 +58,7 @@ I take an idea from first sketch to a live product in people's hands, then keep 
       <h3>Mezmure Dawit</h3>
       <p><sub>መዝሙረ ዳዊት ወ ግጻዌ</sub></p>
       <p>The Psalms of David and Getsawe in one app, with a built-in audio player for reading and listening.</p>
-      <img src="https://img.shields.io/badge/Downloads-1K%2B-34A853?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Downloads-5K%2B-34A853?style=flat-square"/>
       <img src="https://img.shields.io/badge/Rating-4.7%E2%98%85-F59E0B?style=flat-square"/>
       <br/><br/>
       <a href="https://play.google.com/store/apps/details?id=app.mesay.mezmuredawit"><img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-0F172A?style=for-the-badge&logo=googleplay&logoColor=34A853"/></a>
